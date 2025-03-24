@@ -10,3 +10,18 @@ padding: 1em;
 }
 .container titulo, .container frase{
 display:none;
+
+
+
+
+
+
+@media screen and (min-widht:820px)  {
+    .container_titulo, .container_titulo--negrito {}
+    font-size:30px;
+    }
+    .container_titulo {
+        font-weight: 400;
+    }   display:block;
+    }
+}
